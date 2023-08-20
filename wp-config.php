@@ -27,10 +27,10 @@ if(strstr($_SERVER['SERVER_NAME'], 'monster-university.local')) {
 	define( 'DB_PASSWORD', 'root' );
 	define( 'DB_HOST', 'localhost' );
 }else{
-	define( 'DB_NAME', '' );
-	define( 'DB_USER', '' );
-	define( 'DB_PASSWORD', '' );
-	define( 'DB_HOST', '127.0.0.1' );
+	define( 'DB_NAME', 'if0_34853476_monsteruni' );
+	define( 'DB_USER', 'if0_34853476' );
+	define( 'DB_PASSWORD', 'monsteruni' );
+	define( 'DB_HOST', 'sql212.infinityfree.com' );
 }
 
 
